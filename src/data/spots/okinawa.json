@@ -1,0 +1,56 @@
+[
+  {
+    "id": "okinawa-001",
+    "areaId": "okinawa",
+    "name": "美ら海水族館",
+    "category": "experience",
+    "description": "世界有数の大水槽でジンベエザメやマンタが優雅に泳ぐ",
+    "duration": "約180分",
+    "position": { "lat": 26.6942, "lng": 127.8775 }
+  },
+  {
+    "id": "okinawa-002",
+    "areaId": "okinawa",
+    "name": "首里城公園",
+    "category": "history",
+    "description": "琉球王国の栄華を伝える世界遺産。朱色の正殿が復元中",
+    "duration": "約90分",
+    "position": { "lat": 26.2172, "lng": 127.7195 }
+  },
+  {
+    "id": "okinawa-003",
+    "areaId": "okinawa",
+    "name": "古宇利島",
+    "category": "nature",
+    "description": "エメラルドグリーンの海に架かる古宇利大橋を渡る絶景ドライブ",
+    "duration": "約120分",
+    "position": { "lat": 26.6947, "lng": 128.0253 }
+  },
+  {
+    "id": "okinawa-004",
+    "areaId": "okinawa",
+    "name": "国際通り",
+    "category": "shopping",
+    "description": "那覇のメインストリート。お土産店や沖縄料理店が約1.6km続く",
+    "duration": "約90分",
+    "position": { "lat": 26.2154, "lng": 127.6847 }
+  },
+  {
+    "id": "okinawa-005",
+    "areaId": "okinawa",
+    "name": "万座毛",
+    "category": "scenery",
+    "description": "象の鼻の形をした断崖絶壁が有名な景勝地。東シナ海を一望",
+    "duration": "約30分",
+    "position": { "lat": 26.5046, "lng": 127.8510 }
+  },
+  {
+    "id": "okinawa-006",
+    "areaId": "okinawa",
+    "name": "第一牧志公設市場",
+    "category": "gourmet",
+    "description": "沖縄の台所。色鮮やかな熱帯魚や豚肉が並ぶ、2階で食事も可能",
+    "duration": "約60分",
+    "position": { "lat": 26.2148, "lng": 127.6862 }
+  }
+]

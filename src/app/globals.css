@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Leaflet custom marker styles */
+.custom-numbered-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Leaflet container z-index fix */
+.leaflet-container {
+  z-index: 0;
+}

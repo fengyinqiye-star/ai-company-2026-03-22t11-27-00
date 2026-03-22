@@ -1,0 +1,65 @@
+[
+  {
+    "id": "kyoto-001",
+    "areaId": "kyoto",
+    "name": "金閣寺",
+    "category": "shrine_temple",
+    "description": "金箔に輝く舎利殿が池に映る名勝。世界遺産",
+    "duration": "約60分",
+    "position": { "lat": 35.0394, "lng": 135.7292 }
+  },
+  {
+    "id": "kyoto-002",
+    "areaId": "kyoto",
+    "name": "伏見稲荷大社",
+    "category": "shrine_temple",
+    "description": "千本鳥居で有名な稲荷神社の総本宮。外国人人気No.1スポット",
+    "duration": "約90分",
+    "position": { "lat": 34.9671, "lng": 135.7727 }
+  },
+  {
+    "id": "kyoto-003",
+    "areaId": "kyoto",
+    "name": "嵐山竹林の小径",
+    "category": "nature",
+    "description": "天に向かって伸びる竹が幻想的な遊歩道。嵯峨野の代表的スポット",
+    "duration": "約45分",
+    "position": { "lat": 35.0173, "lng": 135.6717 }
+  },
+  {
+    "id": "kyoto-004",
+    "areaId": "kyoto",
+    "name": "清水寺",
+    "category": "shrine_temple",
+    "description": "「清水の舞台」で知られる古刹。京都を代表する世界遺産",
+    "duration": "約90分",
+    "position": { "lat": 34.9949, "lng": 135.7850 }
+  },
+  {
+    "id": "kyoto-005",
+    "areaId": "kyoto",
+    "name": "錦市場",
+    "category": "gourmet",
+    "description": "京の台所と呼ばれる商店街。京漬物や湯葉など京都グルメが集結",
+    "duration": "約60分",
+    "position": { "lat": 35.0050, "lng": 135.7649 }
+  },
+  {
+    "id": "kyoto-006",
+    "areaId": "kyoto",
+    "name": "二条城",
+    "category": "history",
+    "description": "徳川家の栄枯盛衰を見届けた城。鶯張りの廊下と豪華な障壁画",
+    "duration": "約90分",
+    "position": { "lat": 35.0142, "lng": 135.7481 }
+  },
+  {
+    "id": "kyoto-007",
+    "areaId": "kyoto",
+    "name": "哲学の道",
+    "category": "scenery",
+    "description": "銀閣寺から南禅寺へ続く疎水沿いの散策路。春は桜のトンネル",
+    "duration": "約60分",
+    "position": { "lat": 35.0272, "lng": 135.7943 }
+  }
+]

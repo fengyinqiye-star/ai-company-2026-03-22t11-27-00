@@ -1,0 +1,65 @@
+[
+  {
+    "id": "hokkaido-001",
+    "areaId": "hokkaido",
+    "name": "小樽運河",
+    "category": "scenery",
+    "description": "レンガ造りの倉庫群が並ぶノスタルジックな運河。夜のライトアップが幻想的",
+    "duration": "約60分",
+    "position": { "lat": 43.1971, "lng": 140.9946 }
+  },
+  {
+    "id": "hokkaido-002",
+    "areaId": "hokkaido",
+    "name": "札幌時計台",
+    "category": "history",
+    "description": "明治時代に建てられた札幌のシンボル。正式名称は旧札幌農学校演武場",
+    "duration": "約30分",
+    "position": { "lat": 43.0625, "lng": 141.3536 }
+  },
+  {
+    "id": "hokkaido-003",
+    "areaId": "hokkaido",
+    "name": "大通公園",
+    "category": "nature",
+    "description": "札幌中心部を東西に貫く1.5kmの都市公園。雪まつりの会場としても有名",
+    "duration": "約60分",
+    "position": { "lat": 43.0575, "lng": 141.3468 }
+  },
+  {
+    "id": "hokkaido-004",
+    "areaId": "hokkaido",
+    "name": "二条市場",
+    "category": "gourmet",
+    "description": "明治時代から続く札幌の市場。新鮮な海鮮丼やカニが味わえる",
+    "duration": "約60分",
+    "position": { "lat": 43.0582, "lng": 141.3581 }
+  },
+  {
+    "id": "hokkaido-005",
+    "areaId": "hokkaido",
+    "name": "北海道神宮",
+    "category": "shrine_temple",
+    "description": "北海道の総鎮守。原始林に囲まれた荘厳な境内が広がる",
+    "duration": "約60分",
+    "position": { "lat": 43.0546, "lng": 141.3079 }
+  },
+  {
+    "id": "hokkaido-006",
+    "areaId": "hokkaido",
+    "name": "白い恋人パーク",
+    "category": "experience",
+    "description": "銘菓「白い恋人」の工場見学とお菓子作り体験ができるテーマパーク",
+    "duration": "約120分",
+    "position": { "lat": 43.0814, "lng": 141.2758 }
+  },
+  {
+    "id": "hokkaido-007",
+    "areaId": "hokkaido",
+    "name": "藻岩山展望台",
+    "category": "scenery",
+    "description": "日本新三大夜景に選ばれた札幌の絶景スポット。ロープウェイで山頂へ",
+    "duration": "約90分",
+    "position": { "lat": 43.0209, "lng": 141.3285 }
+  }
+]

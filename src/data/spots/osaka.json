@@ -1,0 +1,65 @@
+[
+  {
+    "id": "osaka-001",
+    "areaId": "osaka",
+    "name": "大阪城",
+    "category": "history",
+    "description": "豊臣秀吉が築いた天下の名城。天守閣からの眺望は格別",
+    "duration": "約90分",
+    "position": { "lat": 34.6873, "lng": 135.5262 }
+  },
+  {
+    "id": "osaka-002",
+    "areaId": "osaka",
+    "name": "道頓堀",
+    "category": "gourmet",
+    "description": "グリコ看板で有名な繁華街。たこ焼き・お好み焼きの激戦区",
+    "duration": "約120分",
+    "position": { "lat": 34.6686, "lng": 135.5013 }
+  },
+  {
+    "id": "osaka-003",
+    "areaId": "osaka",
+    "name": "通天閣",
+    "category": "scenery",
+    "description": "新世界のシンボルタワー。ビリケンさんと串カツの街",
+    "duration": "約60分",
+    "position": { "lat": 34.6525, "lng": 135.5063 }
+  },
+  {
+    "id": "osaka-004",
+    "areaId": "osaka",
+    "name": "黒門市場",
+    "category": "gourmet",
+    "description": "大阪の台所。新鮮な海鮮やフグ、和牛の食べ歩きが楽しめる",
+    "duration": "約60分",
+    "position": { "lat": 34.6622, "lng": 135.5064 }
+  },
+  {
+    "id": "osaka-005",
+    "areaId": "osaka",
+    "name": "住吉大社",
+    "category": "shrine_temple",
+    "description": "全国約2300社の住吉神社の総本社。反橋（太鼓橋）が美しい",
+    "duration": "約60分",
+    "position": { "lat": 34.6126, "lng": 135.4929 }
+  },
+  {
+    "id": "osaka-006",
+    "areaId": "osaka",
+    "name": "海遊館",
+    "category": "experience",
+    "description": "世界最大級の水族館。ジンベエザメが泳ぐ巨大水槽は圧巻",
+    "duration": "約150分",
+    "position": { "lat": 34.6545, "lng": 135.4290 }
+  },
+  {
+    "id": "osaka-007",
+    "areaId": "osaka",
+    "name": "心斎橋筋商店街",
+    "category": "shopping",
+    "description": "全長600mのアーケード商店街。ファッションからグルメまで何でも揃う",
+    "duration": "約90分",
+    "position": { "lat": 34.6738, "lng": 135.5013 }
+  }
+]

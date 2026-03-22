@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tokyo",
+    "name": "東京",
+    "description": "日本の首都。伝統と最先端が融合する世界有数の大都市",
+    "center": { "lat": 35.6812, "lng": 139.7671 },
+    "zoom": 12,
+    "image": "/images/areas/tokyo.jpg"
+  },
+  {
+    "id": "kyoto",
+    "name": "京都",
+    "description": "千年の都。世界遺産の神社仏閣が数多く残る歴史の街",
+    "center": { "lat": 35.0116, "lng": 135.7681 },
+    "zoom": 13,
+    "image": "/images/areas/kyoto.jpg"
+  },
+  {
+    "id": "osaka",
+    "name": "大阪",
+    "description": "食い倒れの街。活気あふれる繁華街とグルメが魅力",
+    "center": { "lat": 34.6937, "lng": 135.5023 },
+    "zoom": 13,
+    "image": "/images/areas/osaka.jpg"
+  },
+  {
+    "id": "okinawa",
+    "name": "沖縄",
+    "description": "美しいビーチと独自の文化が息づく南国の楽園",
+    "center": { "lat": 26.3344, "lng": 127.8056 },
+    "zoom": 11,
+    "image": "/images/areas/okinawa.jpg"
+  },
+  {
+    "id": "hokkaido",
+    "name": "北海道",
+    "description": "雄大な自然と新鮮な海の幸が魅力の日本最北の大地",
+    "center": { "lat": 43.0621, "lng": 141.3544 },
+    "zoom": 11,
+    "image": "/images/areas/hokkaido.jpg"
+  }
+]
