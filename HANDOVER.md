@@ -11,7 +11,7 @@
 
 ### 1. GitHub リポジトリ
 
-- URL: （デプロイ後に共有する GitHub リポジトリ URL）
+- URL: https://github.com/fengyinqiye-star/ai-company-2026-03-22t11-27-00
 - ソースコードの全権限はお客様にあります
 - `main` ブランチへの push で Vercel 自動デプロイが動作します
 

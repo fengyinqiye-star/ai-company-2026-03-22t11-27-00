@@ -15,7 +15,7 @@ export async function generateMetadata({
   const area = getAreaById(params.areaId);
   if (!area) return { title: "エリアが見つかりません" };
   return {
-    title: `${area.name}の観光スポット | おすすめ観光スポット`,
+    title: `${area.name}の観光スポット | Japan Travel`,
     description: area.description,
   };
 }
@@ -31,16 +31,24 @@ export default async function AreaPage({
   const spots = await getSpotsByAreaId(params.areaId);
 
   return (
-    <div className="mx-auto max-w-7xl px-4 py-6">
-      <div className="mb-4">
-        <BackButton />
+    <div>
+      {/* Area hero */}
+      <div className="bg-gradient-to-br from-stone-900 to-stone-800 py-10 lg:py-14">
+        <div className="mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8">
+          <div className="mb-4">
+            <BackButton />
+          </div>
+          <h1 className="font-heading-ja text-2xl lg:text-3xl font-bold text-white mb-2">
+            {area.name}の観光スポット
+          </h1>
+          <p className="font-body text-stone-400">{area.description}</p>
+        </div>
       </div>
-      <h1 className="mb-4 text-2xl font-bold text-gray-900 md:text-3xl">
-        {area.name}の観光スポット
-      </h1>
-      <p className="mb-6 text-gray-600">{area.description}</p>
 
-      <SpotExplorer area={area} spots={spots} />
+      {/* Content */}
+      <div className="mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8 py-8">
+        <SpotExplorer area={area} spots={spots} />
+      </div>
     </div>
   );
 }
